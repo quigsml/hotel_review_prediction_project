@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container">
+  <div class="jumbotron jumbotron-fluid text-center">
+
+    <h1>Hotel Review</h1>
+
+    <form action="/result" method="POST" id="usrreview">
+      <div class="form-group">
+        <label for="usrreview">Please enter review in text area below:</label>
+        <br>
+        <textarea rows="4" cols="50" name="review_text" form="usrreview" id="usrreview"></textarea>
+      </div>
+
+      <p><input class="btn btn-primary" type="submit" value="submit" /></p>
+    </form>
+  </div>
+</div>
+
+
+{% endblock %}
