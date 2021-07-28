@@ -230,14 +230,14 @@ I was interested in the more extreme cases where a review of 5 stars was given b
 
 <summary> contradictory_review_example_1 </summary>
 
-![Contradictory_review_1](images/cont_eg_1.png)
+![Contradictory_review_1](images/cont_eg_1.PNG)
 
 </details>
 <details>
 
 <summary> contradictory_review_example_2 </summary>
 
-![Contradictory_review_2](images/cont_eg_2.png)
+![Contradictory_review_2](images/cont_eg_2.PNG)
 
 </details>
 
@@ -250,7 +250,7 @@ Some people just simply put down scores that seem at odds with the review. An ex
 
 <summary> suspected_reviewer_error </summary>
 
-![suspected_reviewer_error](images/error_eg_1.png)
+![suspected_reviewer_error](images/error_eg_1.PNG)
 
 </details>
 
